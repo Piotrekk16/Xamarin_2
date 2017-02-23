@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">My First App</string>
+    <string name="GiveNumber">Enter a phone number</string>
+    <string name="CallText">Call</string>
+</resources>
